@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Build output
+build/
+out/
+target/
+
+# IntelliJ IDEA and Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+
+# Local configuration
+local.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
